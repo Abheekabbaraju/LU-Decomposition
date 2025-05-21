@@ -36,7 +36,7 @@ print(U)
 ```
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: Yogesh.S
+Developed by: aravind g
 RegisterNumber: 212224230311 
 */
 import numpy as np
